@@ -4,11 +4,11 @@
   "codeowners": ["@tonyinwi"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/tonyinwi/ha-sonance-dsp",
+  "documentation": "https://github.com/worthingtony/ha-sonance-dsp",
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/tonyinwi/ha-sonance-dsp/issues",
+  "issue_tracker": "https://github.com/worthingtony/ha-sonance-dsp/issues",
   "loggers": ["custom_components.sonance_dsp"],
   "requirements": [],
-  "version": "0.5.1"
+  "version": "0.5.2"
 }

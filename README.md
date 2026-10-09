@@ -100,9 +100,12 @@ The rules, and what each defends against: [`docs/design.md`](docs/design.md#powe
 Via HACS, as a custom repository:
 
 1. HACS → ⋮ → Custom repositories
-2. Add `https://github.com/tonyinwi/ha-sonance-dsp`, category **Integration**
+2. Add `https://github.com/worthingtony/ha-sonance-dsp`, category **Integration**
 3. Install, then restart Home Assistant
 4. Settings → Devices & Services → Add Integration → **Sonance DSP**, and enter the amp's IP
+
+The repository moved from `tonyinwi` to `worthingtony` in October 2026. An install added from
+the old address keeps working, because GitHub redirects it.
 
 The entry is keyed on the amp's **serial number**, not its IP: after an address change, add
 it again at the new address to update it. Options: volume ceiling, polling interval (default
