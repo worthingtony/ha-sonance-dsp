@@ -27,7 +27,7 @@ _LOGGER = logging.getLogger(__name__)
 
 AUTO_ON_REQUIRED = "Power Button"
 SLEEP_OFF = "OFF"
-LEARN_MORE_URL = "https://github.com/tonyinwi/ha-sonance-dsp#power"
+LEARN_MORE_URL = "https://github.com/worthingtony/ha-sonance-dsp#power"
 ISSUES = ("auto_on_method", "channel_sleep", "turn_on_volume")
 
 
